@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+# render outputs (made again by render.mjs and audio/mix.py)
+stories/*/out/
+stories/*/audio/*.wav
+# raw TTS downloads; the trimmed lines in voice/satir/ are what the mix uses
+stories/*/voice/aistudio/
+*.mp4
+!ornek/*.mp4

@@ -1,0 +1,12 @@
+{
+  "name": "siluet-stili-engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "2D silhouette stickmen in a layered 3D world: three.js + Canvas 2D, frame-exact capture with puppeteer, no Remotion.",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^23.11.1",
+    "three": "0.170.0"
+  }
+}

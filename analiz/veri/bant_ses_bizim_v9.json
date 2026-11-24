@@ -1,0 +1,17 @@
+{
+ "rastgele": {
+  "n": 400,
+  "seviye_db": -0.5,
+  "alcak_tepe_x": 4.8
+ },
+ "kapanma": {
+  "n": 2,
+  "seviye_db": 5.8,
+  "alcak_tepe_x": 12.9
+ },
+ "acilma": {
+  "n": 2,
+  "seviye_db": 0.8,
+  "alcak_tepe_x": 2.5
+ }
+}

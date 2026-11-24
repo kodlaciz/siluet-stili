@@ -1,0 +1,85 @@
+{
+ "r01": {
+  "kanca_sn": 40.0,
+  "kanca": {
+   "kelime": 71,
+   "kelime_sn": 1.77,
+   "cumle": 10,
+   "cumle_ort_kelime": 7.1,
+   "sen_payi_pct": 11.3,
+   "sayi_sozu": 4,
+   "soru": 3,
+   "sessizlik_sn": 15.9,
+   "konusmaci_degisimi": 2
+  },
+  "tum": {
+   "kelime": 700,
+   "kelime_sn": 1.62,
+   "cumle": 122,
+   "cumle_ort_kelime": 5.7,
+   "sen_payi_pct": 7.9,
+   "sayi_sozu": 30,
+   "soru": 13,
+   "sessizlik_sn": 210.5,
+   "konusmaci_degisimi": 38
+  },
+  "what_if_saniye": [
+   34.7
+  ],
+  "ilk_cumle": "A fly buzzes past your face. You don't even think. You just catch it."
+ },
+ "r02": {
+  "kanca_sn": 47.0,
+  "kanca": {
+   "kelime": 92,
+   "kelime_sn": 1.96,
+   "cumle": 13,
+   "cumle_ort_kelime": 7.1,
+   "sen_payi_pct": 7.6,
+   "sayi_sozu": 7,
+   "soru": 2,
+   "sessizlik_sn": 14.8,
+   "konusmaci_degisimi": 3
+  },
+  "tum": {
+   "kelime": 1009,
+   "kelime_sn": 1.89,
+   "cumle": 171,
+   "cumle_ort_kelime": 5.9,
+   "sen_payi_pct": 8.0,
+   "sayi_sozu": 32,
+   "soru": 15,
+   "sessizlik_sn": 185.9,
+   "konusmaci_degisimi": 57
+  },
+  "what_if_saniye": [],
+  "ilk_cumle": "Your phone battery lasts a month. You rebuild it at breakfast. One new chip,"
+ },
+ "r03": {
+  "kanca_sn": 50.0,
+  "kanca": {
+   "kelime": 119,
+   "kelime_sn": 2.38,
+   "cumle": 19,
+   "cumle_ort_kelime": 6.3,
+   "sen_payi_pct": 9.2,
+   "sayi_sozu": 5,
+   "soru": 3,
+   "sessizlik_sn": 9.1,
+   "konusmaci_degisimi": 9
+  },
+  "tum": {
+   "kelime": 821,
+   "kelime_sn": 2.03,
+   "cumle": 128,
+   "cumle_ort_kelime": 6.4,
+   "sen_payi_pct": 6.2,
+   "sayi_sozu": 46,
+   "soru": 19,
+   "sessizlik_sn": 136.0,
+   "konusmaci_degisimi": 57
+  },
+  "what_if_saniye": [],
+  "ilk_cumle": "A bullet flies at 400 m per second. You can see it. You can"
+ }
+}
